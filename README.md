@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linda López</h1>
 <h3 align="center">Front-End Developer and Mathematician</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindalopezc&label=Profile%20views&color=0e75b6&style=flat" alt="lindalopezc" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindalopezc" alt="lindalopezc" /></a> </p>
 
 - 🔭 I’m currently working on [Burguer Queen app](https://github.com/lindalopezc/LIM017-burger-queen)
@@ -20,8 +18,6 @@
 <a href="https://linkedin.com/in/lindalopezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lindalopezr" height="30" width="40" /></a>
 <a href="https://instagram.com/lindalopezc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lindalopezc" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindalopezc&show_icons=true&locale=en&layout=compact" alt="lindalopezc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindalopezc&show_icons=true&locale=en" alt="lindalopezc" /></p>
 
