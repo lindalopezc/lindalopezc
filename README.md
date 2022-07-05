@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Linda López</h1>
-<h3 align="center">Front-End Developer and Mathematician</h3>
 
 # 💫 About Me:
 👩🏻‍💻Soy Desarrolladora Front-end y Matemática. 🤓Me apasiona la tecnología, el desarrollo de software y la ciencia de datos.🦾<br>Gracias a mi background en Matemáticas📈📊 descubrí el fascinante mundo de la programación y con admiración por todas las posibles creaciones que se pueden obtener gracias a ella.<br>Mi objetivo es continuar aprendiendo de nuevas tecnologías que me permitan crecer profesionalmente, compartir conocimiento y promover el interés de más personas por las carreras STEM👩🏻‍💻<br>📫Contáctame: hellolindalopez@gmail.com
