@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🤓 Me apasiona la tecnología, en especial el desarrollo de software 💻<br>
-📊 Gracias a mi background en Matemáticas📈 descubrí el fascinante mundo de la programación y todas las posibles creaciones que se pueden obtener gracias a ella.<br> 💁🏻‍♀️ Hoy en día como Desarrolladora Front-end, fusiono mis habilidades lógicas y analíticas en la busqueda de soluciones creativas para proyectos digitales📲<br>
+📊 Gracias a mi background en Matemáticas📈 descubrí el fascinante mundo de la programación y todas las posibles creaciones que se pueden obtener gracias a ella.<br> 💁🏻‍♀️ Hoy en día como Software Developer, fusiono mis habilidades lógicas y analíticas en la busqueda de soluciones creativas para proyectos digitales📲<br>
 💛 Mi objetivo es continuar aprendiendo de nuevas tecnologías que me permitan crecer profesionalmente, compartir conocimiento 👩🏻‍🏫 y promover el interés de más personas por las carreras STEM👩🏻‍💻<br>
 📫Contáctame: lindalopezramos61@gmail.com
 
