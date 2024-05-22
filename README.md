@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Linda López</h1>
 
 ## 💫 About Me:
-🤓 I'm passionate about technology, especially software development 💻.
-📊 Thanks to my background in Mathematics📈, I discovered the fascinating world of programming and all the possible creations it enables.
-💁🏻‍♀️ Today, as a DevOps Specialist, I combine my programming skills with best security practices to ensure continuous integration and continuous delivery of applications, helping to deliver value in organizations.
-💛 My goal is to continue learning about new technologies that allow me to grow professionally, share knowledge 👩🏻‍🏫, and encourage more people to pursue STEM careers👩🏻‍💻.
-📫 Contact me: lindalopezramos61@gmail.com
+🤓 I'm passionate about technology, especially software development 💻.<br>
+📊 Thanks to my background in Mathematics📈, I discovered the fascinating world of programming and all the possible creations it enables.<br>
+💁🏻‍♀️ Today, as a DevOps Specialist, I combine my programming skills with best security practices to ensure continuous integration and continuous delivery<br> of applications, helping to deliver value in organizations.<br>
+💛 My goal is to continue learning about new technologies that allow me to grow professionally, share knowledge 👩🏻‍🏫, and encourage more people to pursue STEM careers👩🏻‍💻.<br>
+📫 Contact me: lindalopezramos61@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lindalopezr) 
